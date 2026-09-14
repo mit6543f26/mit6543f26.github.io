@@ -29,6 +29,8 @@ complexity, see [here](https://mit6543.github.io).
 
 (This schedule is provisional and subject to change.)
 
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 2.
+
 | Date | Topic | Scribe notes |
 | --- | --- | --- |
 | 9/10 | BQP basics |  |
