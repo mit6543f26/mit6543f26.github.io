@@ -29,13 +29,13 @@ complexity, see [here](https://mit6543.github.io).
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 2.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 3.
 
-| Date | Topic | Scribe notes |
+| Date | Topic | Additional notes or readings |
 | --- | --- | --- |
 | 9/10 | BQP basics |  |
 | 9/15 | Classical upper bounds on BQP, and the BBBV lower bound | |
-| 9/17 | The polynomial and compressed oracle methods |  |
+| 9/17 | The polynomial and compressed oracle methods | [Compressed oracle notes](lectures/compressed_oracle_fun.pdf) |
 | 9/22 | Error correction bootcamp |  |
 | 9/24 | The Yamakawa-Zhandry problem and Regev's reduction |  |
 | 9/29 | QMA: basics and Marriott-Watrous amplification | |
