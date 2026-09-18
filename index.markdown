@@ -5,7 +5,7 @@
 layout: default
 ---
 ## Announcements
-- \[9/7\]: Please join the Piazza page for access to lecture videos and further announcements! (Code required, get it in class or email us.)
+- **\[9/7\]**: Please join the Piazza page for access to lecture videos and further announcements! (Code required, get it in class or email us.)
 
 ## Course Description
 This class is an MIT graduate course on quantum complexity theory,
@@ -17,11 +17,14 @@ complexity, see [here](https://mit6543.github.io).
 ## Course Information
 **Instructor:** [Anand Natarajan](https://www.mit.edu/~anandn/) (anandn at mit dot edu).
 
-**Teaching assistant:**  [Tina Zhang](https://tuneful-triangulist.github.io/website/)
+**Teaching assistant:**  [Tina
+Zhang](https://tuneful-triangulist.github.io/website/) (tinaz at mit
+dot edu).
 
 **Space-time coördinates:**  Tuesdays & Thursdays 11:00 a.m. to 12:30 p.m., [36-153](https://whereis.mit.edu/?go=36).
 
-**Our first class meeting will be Thursday 9/10!**
+**Office hours:** Fridays 4-5pm in 32-624, starting September 18, or
+by appointment.
 
 **Piazza:** [Available here](https://piazza.com/mit/fall2026/65430).
 
@@ -35,7 +38,7 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 | --- | --- | --- |
 | 9/10 | BQP basics |  |
 | 9/15 | Classical upper bounds on BQP, and the BBBV lower bound | |
-| 9/17 | The polynomial and compressed oracle methods | [Compressed oracle notes](lectures/compressed_oracle_fun.pdf) |
+| 9/17 | The polynomial and compressed oracle methods | [Yassine Hamoudi's query complexity notes](https://arxiv.org/abs/2508.08852), [Compressed oracle notes](lectures/compressed_oracle_fun.pdf) |
 | 9/22 | Error correction bootcamp |  |
 | 9/24 | The Yamakawa-Zhandry problem and Regev's reduction |  |
 | 9/29 | QMA: basics and Marriott-Watrous amplification | |
