@@ -32,14 +32,14 @@ by appointment.
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 3.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 4.
 
 | Date | Topic | Additional notes or readings |
 | --- | --- | --- |
 | 9/10 | BQP basics |  |
 | 9/15 | Classical upper bounds on BQP, and the BBBV lower bound | |
 | 9/17 | The polynomial and compressed oracle methods | [Yassine Hamoudi's query complexity notes](https://arxiv.org/abs/2508.08852), [Compressed oracle notes](lectures/compressed_oracle_fun.pdf) |
-| 9/22 | Error correction bootcamp |  |
+| 9/22 | Error correction bootcamp | [John Wright's course](https://people.eecs.berkeley.edu/~jswright/quantumcodingtheory24/), [Essential Coding Theory](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf), [Chinmay Nirkhe's Simons talk](https://www.youtube.com/watch?v=WwVwfOF2sEM&list=PLgKuh-lKre129zuMIQbrcTRluZIi0YMhq) |
 | 9/24 | The Yamakawa-Zhandry problem and Regev's reduction |  |
 | 9/29 | QMA: basics and Marriott-Watrous amplification | |
 | 10/1 | Local Hamiltonians and the Feynman-Kitaev construction | |
