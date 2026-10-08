@@ -32,7 +32,7 @@ by appointment.
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 8.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 9.
 
 | Date | Topic | Additional notes or readings |
 | --- | --- | --- |
@@ -44,7 +44,7 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 | 9/29 | QMA: basics and Marriott-Watrous amplification | [Oded Regev's notes](https://cims.nyu.edu/%7Eregev/teaching/quantum_fall_2005/ln/qma.pdf) |
 | 10/1 | Local Hamiltonians and the Feynman-Kitaev construction | [Scribe notes from last  year](https://mit6543.github.io/lectures/l3.pdf) |
 | 10/6 | Oracle separations between QMA and QCMA | Chinmay Nirkhe's [short](https://homes.cs.washington.edu/~nirkhe/talks/qma-and-qcma-lower-bound-techniques.pdf) and [long talks](https://www.youtube.com/watch?v=DfDuQdkeYPM) |
-| 10/8 | QMA(2) and QIP| |
+| 10/8 | QMA(2) | [A survey by Jeronimo, Leigh, and Wu](https://dl.acm.org/doi/pdf/10.1145/3802807.3802814) |
 | 10/13 | <font color="red">No class</font> (Monday schedule) | |
 | 10/15 | Introduction to quantum PCP | |
 | 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | |
