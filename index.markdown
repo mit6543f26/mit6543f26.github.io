@@ -32,7 +32,7 @@ by appointment.
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 9.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 10.
 
 | Date | Topic | Additional notes or readings |
 | --- | --- | --- |
