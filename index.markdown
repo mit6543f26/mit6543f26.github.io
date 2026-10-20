@@ -5,6 +5,7 @@
 layout: default
 ---
 ## Announcements
+ - **[10/20**: Problem set 1 is [now available](lectures/ps1.pdf), due November 3rd!.
 - **\[9/7\]**: Please join the Piazza page for access to lecture videos and further announcements! (Code required, get it in class or email us.)
 
 ## Course Description
@@ -28,6 +29,10 @@ by appointment.
 
 **Piazza:** [Available here](https://piazza.com/mit/fall2026/65430).
 
+## Problem sets
+
+[Problem set 1](lectures/ps1.pdf). Due 11/3/26.
+
 ## Lecture schedule and readings
 
 (This schedule is provisional and subject to change.)
@@ -46,8 +51,8 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 | 10/6 | Oracle separations between QMA and QCMA | Chinmay Nirkhe's [short](https://homes.cs.washington.edu/~nirkhe/talks/qma-and-qcma-lower-bound-techniques.pdf) and [long talks](https://www.youtube.com/watch?v=DfDuQdkeYPM) |
 | 10/8 | QMA(2) | [A survey by Jeronimo, Leigh, and Wu](https://dl.acm.org/doi/pdf/10.1145/3802807.3802814) |
 | 10/13 | <font color="red">No class</font> (Monday schedule) | |
-| 10/15 | Introduction to quantum PCP | |
-| 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | |
+| 10/15 | Introduction to quantum PCP | [A survey by Aharonov, Arad, and Vidick](https://arxiv.org/abs/1309.7495), [the Eldar-Harrow NLTS paper](https://arxiv.org/abs/1510.02082) |
+| 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | [Lecture notes from last year](https://mit6543.github.io/lectures/l13.pdf) |
 | 10/22 | Gap amplification and the detectability lemma | |
 | 10/27 | PCPs and fault tolerance| |
 | 10/29 | Gibbs states | |
