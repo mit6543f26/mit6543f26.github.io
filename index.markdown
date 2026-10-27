@@ -5,7 +5,7 @@
 layout: default
 ---
 ## Announcements
- - **[10/20**: Problem set 1 is [now available](lectures/ps1.pdf), due November 3rd!.
+ - **[10/20]**: Problem set 1 is [now available](lectures/ps1.pdf), due November 3rd!.
 - **\[9/7\]**: Please join the Piazza page for access to lecture videos and further announcements! (Code required, get it in class or email us.)
 
 ## Course Description
@@ -37,7 +37,7 @@ by appointment.
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 10.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 13.
 
 | Date | Topic | Additional notes or readings |
 | --- | --- | --- |
@@ -53,15 +53,15 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 | 10/13 | <font color="red">No class</font> (Monday schedule) | |
 | 10/15 | Introduction to quantum PCP | [A survey by Aharonov, Arad, and Vidick](https://arxiv.org/abs/1309.7495), [the Eldar-Harrow NLTS paper](https://arxiv.org/abs/1510.02082) |
 | 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | [Lecture notes from last year](https://mit6543.github.io/lectures/l13.pdf) |
-| 10/22 | Gap amplification and the detectability lemma | |
-| 10/27 | PCPs and fault tolerance| |
-| 10/29 | Gibbs states | |
+| 10/22 | Gap amplification and the detectability lemma (guest lecture by Tina Zhang) | |
+| 10/27 | PCPs and fault tolerance | [Anshu-Breuckmann-Nguyen's paper](https://arxiv.org/abs/2309.16475), [Louis Golowich's talk](https://www.youtube.com/watch?v=9VB06xLztkU) |
+| 10/29 | Gibbs states (guest lecture by Alexander Zlokapa) | |
 | 11/3 | Consistency of local density matrices|  |
 | 11/5 | QSZK |  |
 | 11/10 | BQP and the polynomial hierarchy | |
 | 11/12 | State and unitary synthesis |  |
 | 11/17 | Pseudorandom states and unitaries ||
-| 11/19 | Interactive proofs for BQP | |
+| 11/19 | Interactive proofs for BQP  | |
 | 11/24 | Self-testing and multi-prover interactive proofs |  |
 | 11/26 | <font color="red">No class</font> (Thanksgiving) | |
 | 12/1 | The cryptographic leash| |
