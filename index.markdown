@@ -53,7 +53,7 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 | 10/13 | <font color="red">No class</font> (Monday schedule) | |
 | 10/15 | Introduction to quantum PCP | [A survey by Aharonov, Arad, and Vidick](https://arxiv.org/abs/1309.7495), [the Eldar-Harrow NLTS paper](https://arxiv.org/abs/1510.02082) |
 | 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | [Lecture notes from last year](https://mit6543.github.io/lectures/l13.pdf) |
-| 10/22 | Gap amplification and the detectability lemma (guest lecture by Tina Zhang) | |
+| 10/22 | Gap amplification and the detectability lemma (guest lecture by Tina Zhang) | [Quynh Nguyen's talk](https://www.youtube.com/watch?v=Sc9LkahD5NA) |
 | 10/27 | PCPs and fault tolerance | [Anshu-Breuckmann-Nguyen's paper](https://arxiv.org/abs/2309.16475), [Louis Golowich's talk](https://www.youtube.com/watch?v=9VB06xLztkU) |
 | 10/29 | Gibbs states (guest lecture by Alexander Zlokapa) | |
 | 11/3 | Consistency of local density matrices|  |
