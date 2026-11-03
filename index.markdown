@@ -39,32 +39,32 @@ by appointment.
 
 Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 13.
 
-| Date | Topic | Additional notes or readings |
-| --- | --- | --- |
-| 9/10 | BQP basics |  |
-| 9/15 | Classical upper bounds on BQP, and the BBBV lower bound | |
-| 9/17 | The polynomial and compressed oracle methods | [Yassine Hamoudi's query complexity notes](https://arxiv.org/abs/2508.08852), [Compressed oracle notes](lectures/compressed_oracle_fun.pdf) |
-| 9/22 | Error correction bootcamp | [John Wright's course](https://people.eecs.berkeley.edu/~jswright/quantumcodingtheory24/), [Essential Coding Theory](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf), [Chinmay Nirkhe's Simons talk](https://www.youtube.com/watch?v=WwVwfOF2sEM&list=PLgKuh-lKre129zuMIQbrcTRluZIi0YMhq) |
-| 9/24 | The Yamakawa-Zhandry problem and Regev's reduction | [Mark Zhandry's talk](https://www.youtube.com/watch?v=HX4idToECMA), the [YZ paper](https://arxiv.org/pdf/2204.02063), [Fermi Ma's notes](https://fermima.com/cs294/lecture-notes/lec-6-handwritten.pdf) |
-| 9/29 | QMA: basics and Marriott-Watrous amplification | [Oded Regev's notes](https://cims.nyu.edu/%7Eregev/teaching/quantum_fall_2005/ln/qma.pdf) |
-| 10/1 | Local Hamiltonians and the Feynman-Kitaev construction | [Scribe notes from last  year](https://mit6543.github.io/lectures/l3.pdf) |
-| 10/6 | Oracle separations between QMA and QCMA | Chinmay Nirkhe's [short](https://homes.cs.washington.edu/~nirkhe/talks/qma-and-qcma-lower-bound-techniques.pdf) and [long talks](https://www.youtube.com/watch?v=DfDuQdkeYPM) |
-| 10/8 | QMA(2) | [A survey by Jeronimo, Leigh, and Wu](https://dl.acm.org/doi/pdf/10.1145/3802807.3802814) |
-| 10/13 | <font color="red">No class</font> (Monday schedule) | |
-| 10/15 | Introduction to quantum PCP | [A survey by Aharonov, Arad, and Vidick](https://arxiv.org/abs/1309.7495), [the Eldar-Harrow NLTS paper](https://arxiv.org/abs/1510.02082) |
-| 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | [Lecture notes from last year](https://mit6543.github.io/lectures/l13.pdf) |
-| 10/22 | Gap amplification and the detectability lemma (guest lecture by Tina Zhang) | [Quynh Nguyen's talk](https://www.youtube.com/watch?v=Sc9LkahD5NA) |
-| 10/27 | PCPs and fault tolerance | [Anshu-Breuckmann-Nguyen's paper](https://arxiv.org/abs/2309.16475), [Louis Golowich's talk](https://www.youtube.com/watch?v=9VB06xLztkU) |
-| 10/29 | Gibbs states (guest lecture by Alexander Zlokapa) | |
-| 11/3 | Consistency of local density matrices|  |
-| 11/5 | QSZK |  |
-| 11/10 | BQP and the polynomial hierarchy | |
-| 11/12 | State and unitary synthesis |  |
-| 11/17 | Pseudorandom states and unitaries ||
-| 11/19 | Interactive proofs for BQP  | |
-| 11/24 | Self-testing and multi-prover interactive proofs |  |
-| 11/26 | <font color="red">No class</font> (Thanksgiving) | |
-| 12/1 | The cryptographic leash| |
-| 12/3 | TBD | |
-| 12/8 | Final project presentations | |
-| 12/10 | FInal project presentations  | |
+|Lecture number | Date | Topic | Additional notes or readings |
+|-- | --- | --- | --- |
+|1 | 9/10 | BQP basics |  |
+|2 | 9/15 | Classical upper bounds on BQP, and the BBBV lower bound | |
+|3 | 9/17 | The polynomial and compressed oracle methods | [Yassine Hamoudi's query complexity notes](https://arxiv.org/abs/2508.08852), [Compressed oracle notes](lectures/compressed_oracle_fun.pdf) |
+|4 | 9/22 | Error correction bootcamp | [John Wright's course](https://people.eecs.berkeley.edu/~jswright/quantumcodingtheory24/), [Essential Coding Theory](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf), [Chinmay Nirkhe's Simons talk](https://www.youtube.com/watch?v=WwVwfOF2sEM&list=PLgKuh-lKre129zuMIQbrcTRluZIi0YMhq) |
+|5 | 9/24 | The Yamakawa-Zhandry problem and Regev's reduction | [Mark Zhandry's talk](https://www.youtube.com/watch?v=HX4idToECMA), the [YZ paper](https://arxiv.org/pdf/2204.02063), [Fermi Ma's notes](https://fermima.com/cs294/lecture-notes/lec-6-handwritten.pdf) |
+|6 | 9/29 | QMA: basics and Marriott-Watrous amplification | [Oded Regev's notes](https://cims.nyu.edu/%7Eregev/teaching/quantum_fall_2005/ln/qma.pdf) |
+|7 | 10/1 | Local Hamiltonians and the Feynman-Kitaev construction | [Scribe notes from last  year](https://mit6543.github.io/lectures/l3.pdf) |
+|8 | 10/6 | Oracle separations between QMA and QCMA | Chinmay Nirkhe's [short](https://homes.cs.washington.edu/~nirkhe/talks/qma-and-qcma-lower-bound-techniques.pdf) and [long talks](https://www.youtube.com/watch?v=DfDuQdkeYPM) |
+|9 | 10/8 | QMA(2) | [A survey by Jeronimo, Leigh, and Wu](https://dl.acm.org/doi/pdf/10.1145/3802807.3802814) |
+| | 10/13 | <font color="red">No class</font> (Monday schedule) | |
+|10 | 10/15 | Introduction to quantum PCP | [A survey by Aharonov, Arad, and Vidick](https://arxiv.org/abs/1309.7495), [the Eldar-Harrow NLTS paper](https://arxiv.org/abs/1510.02082) |
+|11 | 10/20 | Monogamy of entanglement and the Brandão-Harrow theorem | [Lecture notes from last year](https://mit6543.github.io/lectures/l13.pdf) |
+|12 | 10/22 | Gap amplification and the detectability lemma (guest lecture by Tina Zhang) | [Quynh Nguyen's talk](https://www.youtube.com/watch?v=Sc9LkahD5NA) |
+|13 | 10/27 | PCPs and fault tolerance | [Anshu-Breuckmann-Nguyen's paper](https://arxiv.org/abs/2309.16475), [Louis Golowich's talk](https://www.youtube.com/watch?v=9VB06xLztkU) |
+|14 | 10/29 | Gibbs states (guest lecture by Alexander Zlokapa) | |
+|15 | 11/3 | Consistency of local density matrices| [Last year's lecture](https://mit6543.github.io/lectures/l23.pdf), [Broadbent and Grilo's paper](https://arxiv.org/pdf/1911.07782) |
+|16 | 11/5 | QIP |  |
+|17 | 11/10 | BQP and the polynomial hierarchy | |
+|18 | 11/12 | State and unitary synthesis |  |
+|19 | 11/17 | Pseudorandom states and unitaries ||
+|20 | 11/19 | Interactive proofs for BQP  | |
+|21 | 11/24 | Self-testing and multi-prover interactive proofs |  |
+| | 11/26 | <font color="red">No class</font> (Thanksgiving) | |
+|22 | 12/1 | The cryptographic leash| |
+|23 | 12/3 | TBD | |
+|24 | 12/8 | Final project presentations | |
+|25 | 12/10 | FInal project presentations  | |
