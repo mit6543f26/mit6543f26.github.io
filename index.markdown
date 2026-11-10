@@ -37,7 +37,7 @@ by appointment.
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 16.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 17.
 
 |Lecture number | Date | Topic | Additional notes or readings |
 |-- | --- | --- | --- |
@@ -57,8 +57,8 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 |13 | 10/27 | PCPs and fault tolerance | [Anshu-Breuckmann-Nguyen's paper](https://arxiv.org/abs/2309.16475), [Louis Golowich's talk](https://www.youtube.com/watch?v=9VB06xLztkU) |
 |14 | 10/29 | Gibbs states (guest lecture by Alexander Zlokapa) | |
 |15 | 11/3 | Consistency of local density matrices| [Last year's lecture](https://mit6543.github.io/lectures/l23.pdf), [Broadbent and Grilo's paper](https://arxiv.org/pdf/1911.07782) |
-|16 | 11/5 | QIP |  |
-|17 | 11/10 | BQP and the polynomial hierarchy | |
+|16 | 11/5 | QIP | [Vidick and Watrous's survey on quantum proofs](https://arxiv.org/abs/1610.01664) |
+|17 | 11/10 | BQP and the polynomial hierarchy | [Aaronson's 2009 paper](https://www.scottaaronson.com/papers/bqpph.pdf), [Raz and Tal's paper](https://eccc.weizmann.ac.il/report/2018/107/), [Barak and Błasiok's blogpost](https://windowsontheory.org/2018/06/17/on-the-raz-tal-oracle-separation-of-bqp-and-ph/) |
 |18 | 11/12 | State and unitary synthesis |  |
 |19 | 11/17 | Pseudorandom states and unitaries ||
 |20 | 11/19 | Interactive proofs for BQP  | |
