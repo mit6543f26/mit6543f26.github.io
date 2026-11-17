@@ -37,7 +37,7 @@ by appointment.
 
 (This schedule is provisional and subject to change.)
 
-Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 17.
+Handwritten notes are available [here](lectures/notes.pdf), currently up to Lecture 18.
 
 |Lecture number | Date | Topic | Additional notes or readings |
 |-- | --- | --- | --- |
@@ -59,12 +59,12 @@ Handwritten notes are available [here](lectures/notes.pdf), currently up to Lect
 |15 | 11/3 | Consistency of local density matrices| [Last year's lecture](https://mit6543.github.io/lectures/l23.pdf), [Broadbent and Grilo's paper](https://arxiv.org/pdf/1911.07782) |
 |16 | 11/5 | QIP | [Vidick and Watrous's survey on quantum proofs](https://arxiv.org/abs/1610.01664) |
 |17 | 11/10 | BQP and the polynomial hierarchy | [Aaronson's 2009 paper](https://www.scottaaronson.com/papers/bqpph.pdf), [Raz and Tal's paper](https://eccc.weizmann.ac.il/report/2018/107/), [Barak and Błasiok's blogpost](https://windowsontheory.org/2018/06/17/on-the-raz-tal-oracle-separation-of-bqp-and-ph/) |
-|18 | 11/12 | State and unitary synthesis |  |
-|19 | 11/17 | Pseudorandom states and unitaries ||
-|20 | 11/19 | Interactive proofs for BQP  | |
-|21 | 11/24 | Self-testing and multi-prover interactive proofs |  |
+|  | 11/12 | <font color="re">No class</font> (Anand sick) | |
+|18 | 11/17 | State and unitary synthesis |  |
+|19 | 11/19 | Interactive proofs for BQP  | |
+|20 | 11/24 | Self-testing and multi-prover interactive proofs |  |
 | | 11/26 | <font color="red">No class</font> (Thanksgiving) | |
-|22 | 12/1 | The cryptographic leash| |
-|23 | 12/3 | TBD | |
-|24 | 12/8 | Final project presentations | |
-|25 | 12/10 | FInal project presentations  | |
+|21 | 12/1 | The cryptographic leash| |
+|22 | 12/3 | Pseudorandom states and unitaries | |
+|23 | 12/8 | Final project presentations | |
+|24 | 12/10 | FInal project presentations  | |
